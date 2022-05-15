@@ -1,3 +1,5 @@
+package Chapter1
+
 fun main() {
 
     println("클래스의 기본 구조")

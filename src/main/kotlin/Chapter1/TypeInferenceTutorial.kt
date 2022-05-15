@@ -1,3 +1,5 @@
+package Chapter1
+
 fun main() {
 
     println("타입추론과 함수")

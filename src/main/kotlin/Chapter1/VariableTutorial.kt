@@ -1,3 +1,5 @@
+package Chapter1
+
 fun main() {
 
     println("변수와 자료형")
