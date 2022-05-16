@@ -1,4 +1,4 @@
-package Chapter2
+package chapter2
 
 // Animal 클래스를 상속 가능하게 open 키워드를 사용
 open class Animal {

@@ -1,4 +1,4 @@
-package Chapter2
+package chapter2
 
 // 추상클래스 선언 : abstract
 abstract class AbstractAnimal {

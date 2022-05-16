@@ -1,4 +1,4 @@
-package Chapter1
+package chapter1
 
 // 함수없이 속성만으로 이루어진 클래스
 class Person (var name:String, val birthYear:Int) {
