@@ -1,4 +1,4 @@
-package chapter1
+package base
 
 // 코틀린은 상속 금지가 기본값이고, open 상태여야지만 상속이 가능하다.
 open class Animal (var name:String, var age:Int, var type:String) {

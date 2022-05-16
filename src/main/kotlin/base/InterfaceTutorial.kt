@@ -1,8 +1,8 @@
-package chapter2
+package base
 
 fun main() {
 
-    var d = Dog()
+    var d = DogDog()
 
     d.run()
     d.eat()
@@ -19,7 +19,7 @@ interface Eater {
     }
 }
 
-class Dog: Runner, Eater {
+class DogDog: Runner, Eater {
     override fun run() {
         println("우다다다 뜁니다")
     }
